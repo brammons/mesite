@@ -1,0 +1,10 @@
+.grid-container{
+    display: grid;
+}
+
+body{
+    background-color: #f7f2e9;
+    margin: auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    grid-template-rows: 1fr 1fr;
+}
